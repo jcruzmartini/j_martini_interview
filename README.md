@@ -65,5 +65,5 @@ mvn clean compile assembly:single
 And execute jar
 
 ```
-java -jar target/g2Elevator-jar-with-dependencies.jar
+java -jar target/elevator-1.0.0-jar-with-dependencies.jar
 ```
